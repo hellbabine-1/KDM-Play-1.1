@@ -14,10 +14,11 @@ Current Population: 11
 |Name|Acc/Str/Eva/Luck/Speed|FA|Note|Death
 |---|---|---|---|---|
 | Lucy |  0/0/0/0/0 | | | Dead to prologue |
-| Allister | 0/0/0/0/0 | | | 
-| Zachary | 0/0/0/0/0 | | |
-| Erza | 0/0/0/0/0 |  | |
-| Ascalon | 0/0/0/0/1 |  | |
-| Scout | 0/0/0/0/0 |  | |
+| Allister | 0/0/0/0/0 | | Got the Lanter Sword | 
+| Zachary | 1/0/1/0/0 | Timeless eye | Matchmaker |
+| Erza | 0/1/0/0/0 |  | Matchmaker |
+| Ascalon | 0/0/0/0/1 | Sad Frog song, Orator of death  | |
+| Scout | 0/0/0/0/0 |  | Match maker| |
+| Vigna | 0/0/0/0/0 |  | Mere Navi| |
 |---|---|---|---|---
-| annon X 6 |  0/0/0/0/0 | FA | NOTE | DEATH |
+| annon X 5 |  0/0/0/0/0 | FA | NOTE | DEATH |
