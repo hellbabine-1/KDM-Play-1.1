@@ -28,3 +28,5 @@ Zach and his twillight sword + rawhide, founding stone
 Ascalon with 3 piece of screaming, cloth, founding stone, grease and luck charm 
 Ace with bone dagger, cloth
 Mantra with lantern sword, cloth, foudning stone. 
+
+Update: I've craft another rawhide headband to activate the luck charm, idk why i didn't see that last time

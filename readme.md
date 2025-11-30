@@ -7,21 +7,22 @@ So, Rhodes island just died, so its up to Babel to take up the mantle
 
 # Babel Population
 
-Death: 4
+Death: 7
 
-Current Population: 10
+Current Population: 16
 
 ### Alive
 |Name|Acc/Str/Eva/Luck/Speed|FA|Note|Death
 |---|---|---|---|---|
-| Zachary | 1/0/1/0/0 | Timeless eye | Matchmaker |
+| Zachary | 1/0/1/0/0 | Timeless eye | Matchmaker | Our twillitght guy
 | Ascalon | 0/0/0/0/1 | Sad Frog song, Orator of death  | |
 | Scout | 0/0/0/0/0 |  | Match maker| |
 | Vigna | 0/0/0/0/0 |  | Mere Navi| |
 | Ace | 0/0/1/0/0 |  | | |
 | Mantra | 0/0/1/0/0 |  | | |
+| Oracle | 0/0/0/0/0 | | | |
 |---|---|---|---|---
-| annon X 4 |  0/0/0/0/0 | FA | NOTE | DEATH |
+| annon X 9 |  0/0/0/0/0 | FA | NOTE | DEATH |
 
 
 ### Dead
