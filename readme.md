@@ -7,7 +7,7 @@ So, Rhodes island just died, so its up to Babel to take up the mantle
 
 # Babel Population
 
-Death: 10
+Death: 11
 
 Current Population: 14
 
@@ -18,9 +18,9 @@ Current Population: 14
 | Scout | 0/0/0/0/0 |  | Match maker| |
 | Vigna | 0/0/0/0/0 |  | Mere Navi| |
 | Ace | 0/0/1/0/0 |  | | |
-| Oracle | 0/0/0/0/0 | | | |
 | White smoke | 0/0/0/0/0 | | | |
 | Herb | 0/0/0/0/0 | | | |
+| Drifter | 1/0/1/0/0 | | | |
 |---|---|---|---|---
 | annon X 7 |  0/0/0/0/0 | FA | NOTE | DEATH |
 
@@ -33,4 +33,5 @@ Current Population: 14
 | Erza | 0/1/0/0/0 |  | Matchmaker | Died to lope via blood geyser
 | Zachary | 1/0/1/0/0 | Timeless eye | Matchmaker | Our twillitght guy, Died to the first severe from pariah1
 | Mantra | 0/0/1/0/0 |  | | Died from her first severe from pariah1
+| Oracle | 0/0/0/0/0 | | | | Died to FK2
 
